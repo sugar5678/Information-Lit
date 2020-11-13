@@ -1,0 +1,317 @@
+body {
+background-color:honeydew;
+}
+
+
+.titletext{
+
+  text-align: center;
+  font-size: 50px;
+  text-decoration:brown underline;
+
+
+
+
+}
+/* Images and corresponding text*/
+.aclass{
+  width: 700px;
+  height: 1000px;
+  position: absolute;
+  top: 100px;
+  
+  
+
+}
+.atext{
+  position: absolute;
+
+ top:200px;
+ left:120px;
+ width:375px;
+ height: 650px;
+ background-color:yellow;
+ color:darkbrown;
+ 
+}
+.aimage{
+  width: 700px;
+  height: 1000px;
+  position: absolute;
+  top:100px;
+  opacity:1;
+
+}
+
+
+
+
+
+
+
+
+.bclass{
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top: 550px;
+  
+  
+
+}
+.btext{
+  position: absolute;
+  
+ top:650px;
+ left: 200px;
+ width:400px;
+ background-color: yellow;
+ color: darkbrown;
+ 
+}
+.bimage{
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top:550px;
+
+}
+
+
+
+
+
+
+.cclass{
+  width: 500x;
+  height: 900px;
+  position: absolute;
+  top: 50px;
+  left:550px;
+  
+  
+
+}
+.ctext{
+  position: absolute;
+ top:150px;
+ background-color: yellow;
+ text-align: center;
+ left:650px;
+ width:500px;
+ color: darkbrown;
+ 
+}
+.cimage{
+  width: 800px;
+  height: 1300px;
+  position: absolute;
+  top:50px;
+  left:550px;
+
+}
+
+.
+
+
+
+.dclass{
+  width: 900px;
+  height: 800px;
+  position: absolute;
+  top: 1550px;
+  left:550px;
+  
+  
+
+}
+.dtext{
+  position: absolute;
+ top:1650px;
+ left: 700px;
+ width:600px;
+ height:300px;
+ background-color: yellow;
+ 
+ color: darkbrown;
+ 
+}
+.dimage{
+  width: 900px;
+  height: 800px;
+  position: absolute;
+  top:1550px;
+  left:550px;
+
+}
+
+
+
+.eclass{
+  width: 500px;
+  height: 400px;
+  position: absolute;
+  top: 1350px;
+  left:250px;
+  
+  
+
+}
+.etext{
+  position: absolute;
+ top:1550px;
+ left:450px;
+ background-color: yellow;
+ width:700px;
+ height:300px;
+ color: darkbrown;
+ 
+}
+.eimage{
+  width: 1000px;
+  height: 800px;
+  position: absolute;
+  top:1350px;
+  left: 250px;
+
+}
+
+
+
+
+
+.fclass{
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  top: 1600px;
+
+
+  
+  
+  
+  
+  
+
+}
+.ftext{
+  position: absolute;
+ top:1700px;
+ left:100px;
+ width:400px;
+ height:400px;
+
+
+ 
+ background-color:yellow;
+ color: darkbrown;
+ 
+}
+.fimage{
+ 
+  width: 700px;
+  height: 1000px;
+  position: absolute;
+  top:1600px;
+
+
+  
+
+
+}
+
+
+
+
+
+.gclass{
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top: 1000px;
+  left:1px;
+  
+  
+
+}
+.gtext{
+  position: absolute;
+ top:1075px;
+ background-color: yellow;
+ width:600px;
+ height:500px;
+  left:70px;
+ color: darkbrown;
+ 
+}
+.gimage{
+  width: 800px;
+  height: 800px;
+  position: absolute;
+  top:1000px;
+ left:1px;
+}
+
+
+
+/*sources slide */
+
+.hclass{
+  width: 2600px;
+  height: 800px;
+  position: absolute;
+  top: 2000px;
+  
+  
+  
+
+}
+.htext{
+  font-size: 15px;
+  position: absolute;
+ top:2075px;
+ background-color: yellow;
+ width:2000px;
+ height:600px;
+ left: 200px;
+
+ color: darkbrown;
+ 
+ 
+}
+.himage{
+  width: 2600px;
+  height: 800px;
+  position: absolute;
+  top:2000px;
+  
+ 
+}
+/*pie chart related items*/
+.piechart { 
+ margin-left: 1500px; 
+ display: block; 
+ position: absolute; 
+ width: 300px; 
+ height: 300px; 
+ border-radius: 50%; 
+ background-image: conic-gradient( 
+ 
+ 
+  blue 0 5.9%,
+  red 0 23.5%,
+  green 0 52.9%,  
+  orange 0%
+  ); 
+
+        } 
+.Pietxt{
+  position: absolute;
+
+ top:300px;
+ left:0px;
+ width:575px;
+ height: 650px;
+ color:darkbrown;
+ 
+}
